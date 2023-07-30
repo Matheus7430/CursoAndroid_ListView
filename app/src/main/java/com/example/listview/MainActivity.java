@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
             "Campos do Jordão", "Costa do Sauípe",
             "Ilhéus", "Porto Seguro", "Tiradentes",
             "Prega", "Santiago", "Zurique", "Caribe",
-            "Buenos Aieres", "Budapeste", "Cancún", "Aruba"};
+            "Buenos Aieres", "Budapeste", "Cancún", "Aruba", "Marituba"};
 
 
     @Override
